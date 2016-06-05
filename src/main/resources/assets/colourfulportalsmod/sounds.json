@@ -1,0 +1,8 @@
+{
+    "teleport": {
+        "category": "block",
+        "sounds": [
+            "teleport"
+        ]
+    }
+}
