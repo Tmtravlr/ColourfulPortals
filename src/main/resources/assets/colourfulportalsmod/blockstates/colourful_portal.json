@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=z": { "model": "colourful_portal_ew" },
+        "axis=x": { "model": "colourful_portal_ns" },
+		"axis=y": { "model": "colourful_portal_ud" }
+    }
+}
